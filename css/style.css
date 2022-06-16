@@ -1,0 +1,72 @@
+
+
+.containerFluid{
+    background-color: gainsboro;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+/* imagen home */
+
+/* .container{
+    max-width: 4000px;
+    
+} */
+
+.img-fluid{
+    padding: 0;
+    margin: 0;
+}
+
+/* form */
+
+.formularioCotizar{
+    background-color: gainsboro;
+    margin-left: 24px;
+    margin-right: 24px;
+    padding: 50px;
+    font-size: small;
+
+}
+.btn-primary{
+    font-size: small;
+
+}
+
+/* footer */
+.footer{
+    color: black;
+    height: 50px;
+ 
+}
+
+.logoFooter{
+    padding-left: 24px;
+    width: 100px;
+    height: 100px;
+}
+
+.contenedorFooter{
+    display: flex;
+    flex-direction: row;
+}
+.pruebaFooter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.redes{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.bi{
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+}
+
