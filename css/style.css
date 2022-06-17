@@ -79,13 +79,14 @@
     color: #2f2f2f;
     background-color: gainsboro;
 }
-.text-center{
+.text-start{
     background-image: url(https://images.unsplash.com/photo-1524769490-6d12a683d9ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=835&q=80);
     font-size: 1.25rem;
     font-weight: 400;
     color: #2f2f2f;
     height: 500px;
     padding: 40px;
+    
 }
 
 
