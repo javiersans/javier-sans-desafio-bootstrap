@@ -88,6 +88,25 @@
     padding: 40px;
     
 }
+/* galeria */
 
 
 
+/* servicios */
+.servicios{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gainsboro;
+    padding: 25px;
+    
+
+}
+
+/* media query servicios */
+
+@media (max-width: 768px){
+    .servicios{
+        flex-direction: column;
+        align-items: center;
+    }
+}
